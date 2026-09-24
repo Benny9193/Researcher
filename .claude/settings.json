@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Read(/research/**)",
+      "Edit(/research/**)",
+      "Write(/research/**)"
+    ]
+  }
+}
